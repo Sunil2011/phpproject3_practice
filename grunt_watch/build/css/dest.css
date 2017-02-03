@@ -1,0 +1,14 @@
+body{
+    background: #aaccff;
+}
+
+div#a{
+    background: red;
+}
+div#b{
+    background: blue;
+}
+h1{
+    background: yellow;
+}
+

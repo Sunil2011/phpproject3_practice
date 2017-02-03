@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <link rel="stylesheet"  href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"  />
+  </head>
+  <body ng-app="store">
+    <div ng-controller="testController as test">
+      
+      <h3> Name: {{test.product.name}} </h3>
+      <h3> Price: {{test.product.price }}</h3>
+      <h3> Description:{{ test.product.description}}</h3>
+      
+      
+        <br/>
+        
+        {{'test' + test.product.name }}  
+        <br/>
+      
+       {{pr}} 
+       <br/>
+       {{ text }}{{ test.product.name }}
+       
+       <br/>
+       {{ text + test.product.name }} 
+       
+      </div>
+      
+    <script type="text/javascript"  src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script type="text/javascript" src="./app.js"></script>
+  </body>
+  
+</html>

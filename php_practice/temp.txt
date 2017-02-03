@@ -1,0 +1,10 @@
+hi.... this is simple text file.
+jihdso.
+<html>
+<body>
+<?php
+echo 'php contents';
+?>
+<h1> hello .. this is HTML contents </h1>
+</body>
+<html>

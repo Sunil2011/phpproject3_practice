@@ -1,0 +1,18 @@
+{
+  "name": "PhpProject3_practice",
+  "version": "v1.7.0",
+  "authors": [
+    "ch.shivanagesh <ch.shivanagesh@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

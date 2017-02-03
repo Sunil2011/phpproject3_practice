@@ -1,0 +1,8 @@
+<h2> this is heading </h2>
+<p> this is first para </p>
+ this is second paragraph ..
+ end of line ....
+ <?php
+  echo'hi this is php contents';
+ ?>
+<p style="color:blue"> i am blue line </p>

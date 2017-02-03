@@ -1,0 +1,4 @@
+hi.. this is simple text file.
+<?php
+echo'this is php content';
+?>
